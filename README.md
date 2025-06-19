@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjineyulu Annavarapu
 
-<!--
-**anji-annavarapu/anji-annavarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Java Full-Stack Developer | 🌐 Cloud Enthusiast | 🇺🇸 Based in the U.S.
 
-Here are some ideas to get you started:
+## 💼 About Me
+- 🔭 I’m currently looking for full-time Java Developer roles
+- 🌱 I’m improving my skills in Spring Boot, React, AWS & CI/CD pipelines
+- 💬 Ask me about Java, Spring, Microservices, or front-end in React
+- 📫 How to reach me: anjineyulu.dev@gmail.com
+- ⚡ Fun fact: I love solving LeetCode problems and optimizing backend APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+```java
+Languages: Java, JavaScript, Python, SQL  
+Frameworks: Spring Boot, React.js, Node.js  
+Tools: Git, Maven, Docker, Jenkins, VS Code, IntelliJ  
+Cloud: AWS (EC2, S3, RDS), Azure (basics)
