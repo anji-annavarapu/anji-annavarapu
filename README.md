@@ -10,7 +10,7 @@
 - 🔧 Skilled in building **robust**, **scalable**, and **high-performance web applications**  
 - ☁️ Hands-on experience with **AWS Cloud Services** for deploying and managing applications  
 - 💬 Ask me about anything Java, Spring Boot, REST APIs, or React.js  
-- 📫 Reach me at: **anjineyulu.dev@gmail.com**
+- 📫 Reach me at: **anjineyulu2598@gmail.com**
 
 
 ## 🌐 Connect with Me
