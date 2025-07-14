@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anji A</h1>
-<p align="center"><b>A passionate Java Full Stack Developer</b></p>
+<p align="center"><b>A passionate Full Stack Developer</b></p>
 
 
 ## 🙋‍♂️ About Me
